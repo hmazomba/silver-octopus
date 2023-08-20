@@ -1,0 +1,11 @@
+chromadb
+pypdf
+langchain
+tiktoken
+openai
+faiss-cpu
+unstructured
+Cython
+huggingface_hub
+unstructured[local-inference]
+python-dotenv
